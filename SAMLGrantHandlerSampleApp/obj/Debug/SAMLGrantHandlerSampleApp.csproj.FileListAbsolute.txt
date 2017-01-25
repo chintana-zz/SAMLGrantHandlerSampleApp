@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SAMLGrantHandlerSampleApp\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SAMLGrantHandlerSampleApp\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SAMLGrantHandlerSampleApp\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SAMLGrantHandlerSampleApp\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SAMLGrantHandlerSampleApp\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ConsoleApplication1\SAMLGrantHandlerSampleApp\obj\Debug\SAMLGrantHandlerSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SAMLGrantHandlerSampleApp\SAMLGrantHandlerSampleApp\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SAMLGrantHandlerSampleApp\SAMLGrantHandlerSampleApp\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SAMLGrantHandlerSampleApp\SAMLGrantHandlerSampleApp\obj\Debug\ConsoleApplication1.pdb
